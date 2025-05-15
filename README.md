@@ -113,4 +113,4 @@ Customer support on e-commerce sites
 Tech assistants in stores or apps
 
 Author
-Rohit (replace with your contact info or GitHub link)
+admin (replace with your contact info or GitHub link)
