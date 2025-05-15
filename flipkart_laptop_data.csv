@@ -1,0 +1,406 @@
+clean_name,ram_gb,processor,os,storage_gb,Display Size,cpu_brand,weight,battery_life,price,Rating
+DELL Vostro Intel Core i3 12th Gen 1215U,8.0,Intel Core i3,Windows 11,512.0,15.6,Intel,2.97,5.2,42906,Not found
+DELL 15 Intel Core i3 12th Gen 1215U,8.0,Intel Core i3,Windows 11,512.0,15.6,Intel,2.68,4.7,32990,4.2
+Acer Aspire 3 Intel Celeron Dual Core,8.0,Intel Celeron,Windows 11,128.0,11.6,Intel,1.25,6.0,14990,3.8
+Acer Aspire 3 Intel Core i5 13th Gen 1334U,16.0,Intel Core i5,Windows 11,512.0,14.0,Intel,2.84,7.8,38990,4.4
+ASUS Vivobook 15 Intel Core i3 13th Gen 1315U,8.0,Intel Core i3,Windows 11,512.0,15.6,Intel,2.74,5.3,35990,4.2
+DELL 15 Intel Core i3 12th Gen 1215U,8.0,Intel Core i3,Windows 11,512.0,15.6,Intel,2.04,7.4,32990,4.3
+ASUS Vivobook 15 Intel Core i5 12th Gen 1235U,8.0,Intel Core i5,Windows 11,512.0,15.6,Intel,2.18,6.0,40990,4.2
+SAMSUNG Galaxy Book4 Metal Intel Core i5 13th Gen 1335U,16.0,Intel Core i5,Windows 11,512.0,15.6,Intel,1.8,7.0,51990,4.5
+Acer Aspire 3 Intel Celeron Dual Core,8.0,Intel Celeron,Windows 11,512.0,11.6,Intel,1.11,6.8,17990,3.8
+ASUS Vivobook Go 15 AMD Ryzen 3 Quad Core 7320U,8.0,AMD Ryzen 3,Windows 11,512.0,15.6,AMD,1.67,7.7,28990,4.2
+HP 15,8.0,AMD Ryzen 3,Windows 11,512.0,15.6,AMD,2.61,8.2,29990,4.2
+CHUWI Intel Celeron Dual Core 11th Gen N4020,8.0,Intel Celeron,Windows 11,256.0,14.1,,1.01,5.2,16490,3.7
+ASUS Expertbook P1 Intel Core i7 13th Gen 13620H,32.0,Intel Core i7,Windows 11,512.0,14.0,Intel,1.67,7.1,68990,4.4
+Acer Aspire 3 Intel Core i3 13th Gen 1305U,8.0,Intel Core i3,Windows 11,512.0,14.0,Intel,1.8,7.5,29990,4.2
+Acer Predator Helios Neo 16 Intel Core i7 14th Gen 14700HX,16.0,Intel Core i7,Windows 11,1024.0,16.0,Intel,2.07,7.6,114990,4.4
+ASUS Vivobook 15,16.0,Intel Core i5,Windows 11,512.0,15.6,Intel,2.84,9.5,45990,4.2
+HP Victus Intel Core i5 13th Gen 13420H,16.0,Intel Core i5,Windows 11,512.0,15.6,Intel,1.69,6.3,69990,4.4
+HP Backlit Intel Core i5 12th Gen 1235U,8.0,Intel Core i5,Windows 11,512.0,15.6,Intel,1.69,6.2,44990,4.3
+ASUS Vivobook 15 Intel Core i5 12th Gen 1235U,16.0,Intel Core i5,Windows 11,512.0,15.6,Intel,2.48,5.6,45990,4.2
+Acer Aspire Lite Intel Core i5 12th Gen 12450H,16.0,Intel Core i5,Windows 11,1024.0,15.6,Intel,1.9,7.8,48990,4.1
+MSI Thin 15 Intel Core i5 12th Gen 12450H,16.0,Intel Core i5,Windows 11,512.0,15.6,Intel,1.45,6.8,50990,4.3
+HP Victus AI AMD Ryzen 5 Hexa Core 8645HS,16.0,AMD Ryzen 5,Windows 11,512.0,15.6,AMD,1.9,9.5,58990,4.1
+Acer Aspire 3 Backlit AMD Ryzen 7 Octa Core 7730U,16.0,AMD Ryzen 7,Windows 11,512.0,15.6,AMD,1.28,7.9,38990,4
+Acer Nitro V AMD Ryzen 7 Octa Core 7735HS,16.0,AMD Ryzen 7,Windows 11,512.0,15.6,AMD,1.35,9.9,67990,4.3
+ASUS Expertbook P1 Intel Core i7 13th Gen 13620H,16.0,Intel Core i7,Windows 11,512.0,15.6,Intel,2.0,6.7,62990,4.4
+ASUS Vivobook Go 15 OLED AMD Ryzen 3 Quad Core 7320U,8.0,AMD Ryzen 3,Windows 11,512.0,15.6,AMD,1.84,9.5,34990,4.4
+Acer Aspire Intel Core i5 12th Gen 12450H,16.0,Intel Core i5,Windows 11,512.0,15.6,Intel,2.83,8.2,43990,4.1
+Lenovo Yoga Slim 7 Intel Core Ultra 7 155H,16.0,Other,Windows 11,1024.0,14.0,Intel,1.72,8.9,87990,4.2
+ASUS Vivobook 15 Intel Core i5 12th Gen 1235U,8.0,Intel Core i5,Windows 11,512.0,15.6,Intel,2.16,8.5,40990,4.2
+ASUS Vivobook 15 Intel Core i3 13th Gen 1315U,8.0,Intel Core i3,Windows 11,512.0,15.6,Intel,2.26,6.8,34990,4.2
+Lenovo IdeaPad 1 AMD Athlon Dual Core 7120U,8.0,Other,Windows 11,512.0,15.6,AMD,1.03,8.5,25990,4.2
+ASUS Vivobook Go 15 AMD Ryzen 5 Quad Core 7520U,8.0,AMD Ryzen 5,Windows 11,512.0,15.6,AMD,2.33,6.5,34990,4.2
+Acer Swift Go 14 TouchScreen AI PC Intel Core Ultra 7 155H,16.0,Other,Windows 11,1024.0,14.0,Intel,1.36,5.2,70990,4.1
+ASUS Vivobook 15,8.0,Intel Core i3,Windows 11,512.0,15.6,Intel,2.92,9.6,32990,4.3
+Acer Aspire 3 Backlit AMD Ryzen 5 Hexa Core 7430U,16.0,AMD Ryzen 5,Windows 11,512.0,15.6,AMD,1.3,8.5,33990,4.1
+Acer Chromebook Plus Google AI Intel Core i3 13th Gen 1315U,8.0,Intel Core i3,,256.0,15.6,Intel,1.83,6.9,21990,3.9
+DELL MSO,8.0,Intel Core i3,Windows 11,512.0,15.6,Intel,1.17,7.4,36490,4.2
+HP Omen AMD Ryzen 7 Octa Core 7840HS,16.0,AMD Ryzen 7,Windows 11,1024.0,16.1,AMD,2.99,6.5,95990,4.5
+HP Victus AI Powered AMD Ryzen 7 Octa Core 7840HS,16.0,AMD Ryzen 7,Windows 11,512.0,16.1,AMD,2.0,6.5,72990,4.3
+DELL Wyse 5470 Intel Celeron Quad Core Processor Base Frequency 1,,Intel Celeron,Windows 11,256.0,14.0,Intel,2.19,6.1,21350,3.8
+ASUS Vivobook Go 15 OLED AMD Ryzen 5 Quad Core 7520U,8.0,AMD Ryzen 5,Windows 11,512.0,15.6,AMD,1.13,7.7,40990,4.4
+Acer Aspire 3 Intel Core i5 13th Gen 1334U,8.0,Intel Core i5,Windows 11,512.0,14.0,Intel,2.5,6.2,39990,4.4
+ASUS Vivobook Go 15 OLED AMD Ryzen 3 Quad Core 7320U,8.0,AMD Ryzen 3,Windows 11,512.0,15.6,AMD,1.42,8.0,34990,4.4
+Acer Aspire Lite AMD Ryzen 3 Quad Core 5300U,16.0,AMD Ryzen 3,Windows 11,512.0,15.6,AMD,2.8,6.3,31490,4.1
+DELL 15 AMD Ryzen 5 Hexa Core 7530U,16.0,AMD Ryzen 5,Windows 11,512.0,15.6,AMD,1.41,8.3,41990,Not found
+ASUS Vivobook 15 Intel Core i3 12th Gen 1215U,8.0,Intel Core i3,Windows 11,512.0,15.6,Intel,1.38,5.3,34990,4.3
+Lenovo Yoga Slim 7 WUXGA OLED AI PC Intel Core Ultra 7 155H,32.0,Other,Windows 11,1024.0,14.0,Intel,1.07,9.0,98990,4.5
+Acer Aspire 3 Backlit AMD Ryzen 5 Hexa Core 7430U,8.0,AMD Ryzen 5,Windows 11,512.0,15.6,AMD,1.94,7.2,33990,4.1
+ASUS Vivobook Go 14,8.0,AMD Ryzen 3,Windows 11,512.0,14.0,AMD,2.13,7.3,29990,4.2
+Lenovo IdeaPad Slim 5 Co,16.0,Snapdragon,Windows 11,1024.0,14.0,,1.13,5.1,54990,4.3
+ASUS Vivobook 15,16.0,Intel Core i5,Windows 11,512.0,15.6,Intel,2.55,5.4,45990,4.2
+ASUS Vivobook 15 Intel Core i3 12th Gen 1215U,16.0,Intel Core i3,Windows 11,512.0,15.6,Intel,1.91,5.7,36599,4.3
+SAMSUNG Galaxy Book4 Intel Core i5 13th Gen 1335U,8.0,Intel Core i5,Windows 11,512.0,15.6,Intel,2.05,7.2,58500,4.5
+Acer Swift Go 14 AMD Ryzen 5 Hexa Core 7430U,16.0,AMD Ryzen 5,Windows 11,512.0,14.0,AMD,1.88,8.4,44990,4.3
+Acer Aspire 7 Intel Core i5 13th Gen 13420H,16.0,Intel Core i5,Windows 11,512.0,15.6,Intel,1.8,6.5,60990,4.3
+MOTOROLA Motobook 60 Full Metal Intel Core 7,16.0,Other,Windows 11,1024.0,14.0,Intel,2.12,8.5,73990,4.2
+HP 250R G9 Intel Core i3 13th Gen i3,16.0,Intel Core i3,Windows 11,512.0,15.6,Intel,1.31,7.1,33490,4.1
+DELL Latitude 3440,8.0,Intel Core i3,Windows 11,512.0,14.0,Intel,1.36,8.9,29890,4.1
+ASUS TUF Gaming A15 AMD Ryzen 7 Octa Core 7435HS,16.0,AMD Ryzen 7,Windows 11,512.0,15.6,AMD,2.72,6.2,61990,4.3
+HP AMD Ryzen 5 Quad Core 7520U,16.0,AMD Ryzen 5,Windows 11,512.0,15.6,AMD,2.89,7.9,39490,3.9
+Lenovo MSO,16.0,AMD Ryzen 5,Windows 11,512.0,15.6,AMD,1.75,5.5,38490,4.2
+Apple MacBook AIR Apple M2,16.0,Apple M2,,256.0,13.6,Apple,1.54,13.5,70990,4.7
+Lenovo IdeaPad Slim 5 WUXGA OLED AI PC Intel Core Ultra 5 125H,16.0,Other,Windows 11,1024.0,14.0,Intel,2.29,9.9,73990,4.1
+ASUS Vivobook 15 Intel Core i7 13th Gen 13620H,16.0,Intel Core i7,Windows 11,512.0,15.6,Intel,1.82,6.6,61990,4.2
+DELL Inspiron 15 with Backlit Keyboard,16.0,Intel Core i5,Windows 11,1024.0,15.6,Intel,1.05,7.5,59480,4.2
+Lenovo ThinkBook 16 G6 ABP AMD Ryzen 7 Octa Core 7730U,16.0,AMD Ryzen 7,Windows 11,512.0,16.0,AMD,1.31,8.5,52990,4.1
+ASUS TUF Gaming A15 AMD Ryzen 7 Octa Core 7435HS,16.0,AMD Ryzen 7,Windows 11,512.0,15.6,AMD,2.43,8.8,82990,4.6
+Lenovo Lenovo V15 G3 IAP Intel Core i5 12th Gen 1235U,16.0,Intel Core i5,Windows 11,512.0,15.6,Intel,2.32,7.5,39141,4.1
+ASUS Vivobook Go 15 OLED AMD Ryzen 5 Quad Core 7520U,8.0,AMD Ryzen 5,Windows 11,512.0,15.6,AMD,1.05,6.0,40990,4.4
+HP Laptop Intel Core i3 13th Gen 1315U,8.0,Intel Core i3,Windows 11,512.0,15.6,Intel,1.44,5.5,35990,4.5
+ASUS Gaming V16,16.0,Other,Windows 11,512.0,16.0,Intel,1.46,7.6,79990,4.8
+Lenovo V14 Intel Core i7 12th Gen 1255U,16.0,Intel Core i7,Windows 11,512.0,14.0,Intel,2.34,6.4,44999,4.1
+Lenovo LOQ Intel Core i5 12th Gen 12450HX,16.0,Intel Core i5,Windows 11,512.0,15.6,Intel,1.04,6.7,65900,3.7
+HP 15 G9,16.0,AMD Ryzen 5,Windows 11,512.0,15.6,AMD,1.21,5.2,35990,4.3
+HP 15R,16.0,Intel Core i3,Windows 11,512.0,15.6,Intel,2.6,5.4,32990,3.6
+Acer Aspire 7 Intel Core i5 13th Gen 13420H,16.0,Intel Core i5,Windows 11,512.0,15.6,Intel,1.36,6.9,57990,4.3
+Acer Aspire 3 Intel Core i7 12th Gen 1255U,16.0,Intel Core i7,Windows 11,512.0,14.0,Intel,2.31,6.5,46990,4.3
+ASUS TUF Gaming A15 AMD Ryzen 7 Octa Core 7435HS,8.0,AMD Ryzen 7,Windows 11,512.0,15.6,AMD,1.48,8.3,54990,4.3
+HP Intel Core i5 12th Gen 1235U,16.0,Intel Core i5,Windows 11,512.0,15.6,Intel,1.2,7.9,48990,4.3
+ASUS Vivobook 15 Intel Core i5 13th Gen 1335U,16.0,Intel Core i5,Windows 11,512.0,15.6,Intel,1.49,8.3,49990,4.2
+Acer Aspire 7 Intel Core i5 13th Gen 13420H,8.0,Intel Core i5,Windows 11,512.0,15.6,Intel,2.44,6.2,54990,4.3
+ASUS Chromebook Intel Celeron Dual Core N4500,4.0,Intel Celeron,,,15.6,Intel,2.71,4.5,15990,3.8
+ASUS Vivobook Go 15 AMD Ryzen 5 Quad Core 7520U,8.0,AMD Ryzen 5,Windows 11,512.0,15.6,AMD,2.66,6.4,34990,4.2
+ASUS Chromebook Intel Celeron Dual Core N4500,4.0,Intel Celeron,,,14.0,Intel,1.79,5.9,13990,3.8
+Lenovo LOQ AMD Ryzen 7 Octa Core 7435HS,24.0,AMD Ryzen 7,Windows 11,512.0,15.6,AMD,2.34,8.8,80990,4.5
+Infinix Y3 Max Series Intel Core i7 12th Gen 1255U,16.0,Intel Core i7,Windows 11,512.0,16.0,Intel,1.41,6.1,39990,4.3
+Acer Aspire 3 with Backlit Keyboard,16.0,Intel Core i5,Windows 11,1024.0,14.0,Intel,1.59,9.7,44990,4.1
+Lenovo LOQ Essential Intel Core i7 12th Gen 12650HX,12.0,Intel Core i7,Windows 11,512.0,15.6,Intel,2.79,6.2,70990,4.4
+ASUS TUF Gaming A15 AMD Ryzen 7 Octa Core 7435HS,16.0,AMD Ryzen 7,Windows 11,512.0,15.6,AMD,1.03,8.2,94990,4.5
+ASUS Vivobook 15,8.0,Intel Core i5,Windows 11,512.0,15.6,Intel,1.17,8.5,40990,4.2
+Lenovo IdeaPad Slim 3 Backlit Intel Core i5 12th Gen 12450H,16.0,Intel Core i5,Windows 11,512.0,15.6,Intel,1.42,8.5,52799,4.2
+MSI Modern 14 Intel Core i5 12th Gen 1235U,16.0,Intel Core i5,Windows 11,512.0,14.0,Intel,1.05,8.0,39990,4.4
+HP G9 Intel Core i3 13th Gen 1315U Turbo Boost with Finger Print,16.0,Intel Core i3,Windows 11,512.0,15.6,Intel,1.36,6.9,33490,4
+DELL 15 Intel Core i5 13th Gen 1334U,8.0,Intel Core i5,Windows 11,512.0,15.6,Intel,2.17,6.7,49750,4.3
+DELL Latitude 3540,16.0,Intel Core i3,Windows 11,512.0,15.6,Intel,1.84,9.1,33800,4.3
+Acer Aspire 3 Intel Celeron Dual Core N4500,8.0,Intel Celeron,Windows 11,256.0,14.0,Intel,2.79,4.2,20490,4
+ASUS TUF Gaming A15 AMD Ryzen 5 Hexa Core 7535HS,16.0,AMD Ryzen 5,Windows 11,512.0,15.6,AMD,2.63,9.6,59990,4.4
+Acer Aspire Lite AMD Ryzen 5 Hexa Core 5625U,16.0,AMD Ryzen 5,Windows 11,1024.0,15.6,AMD,1.68,8.2,41990,4.1
+Apple MacBook Air Apple M3,8.0,Apple M3,,512.0,15.0,Apple,1.52,16.9,134990,4.7
+ASUS Chromebook Intel Celeron Dual Core N4500,8.0,Intel Celeron,,,15.6,Intel,1.76,5.4,16990,3.8
+Apple MacBook Air Apple M4,16.0,Other,,256.0,13.6,Apple,2.18,15.9,99900,4.7
+Apple MacBook Air Apple M3,8.0,Apple M3,,512.0,13.0,Apple,1.54,15.2,116990,4.7
+Acer Aspire Lite AMD Ryzen 3 Quad Core 5300U,8.0,AMD Ryzen 3,Windows 11,512.0,15.6,AMD,2.25,8.9,26990,4.2
+DELL Latitude 3540 Intel Core i3 12th Gen,8.0,Intel Core i3,Ubuntu,512.0,15.6,Intel,1.82,4.7,31299,4
+Lenovo IdeaPad Slim 3 Intel Core i3 13th Gen 1305U,8.0,Intel Core i3,Windows 11,512.0,14.0,Intel,2.1,4.7,36990,4.1
+Apple MacBook Air Apple M3,16.0,Apple M3,,512.0,13.0,Apple,1.87,13.5,125990,4.7
+Lenovo IdeaPad Slim 3 Intel Core i5 12th Gen 12450H,16.0,Intel Core i5,Windows 11,512.0,14.0,Intel,1.59,6.1,49000,4.3
+HP 15 G9,16.0,AMD Ryzen 3,Windows 11,512.0,15.6,AMD,2.9,9.4,28990,5
+Acer Aspire Lite AMD Ryzen 7 Octa Core 5700U,16.0,AMD Ryzen 7,Windows 11,512.0,15.6,AMD,2.53,6.9,39990,4
+Apple Apple M3,16.0,Apple M3,,256.0,13.6,Apple,1.28,17.9,106990,4.7
+HP 15R,8.0,Intel Core i3,Windows 11,512.0,15.6,Intel,2.74,6.7,32390,4.1
+Lenovo IdeaPad Slim 3 15ABR8 AMD Ryzen 5 Hexa Core 5625U,16.0,AMD Ryzen 5,Windows 11,512.0,15.6,AMD,1.97,6.7,39990,Not found
+DELL 14 Intel Core i5 13th Gen 1334U,16.0,Intel Core i5,Windows 11,512.0,14.0,Intel,2.79,8.3,62990,4.5
+HP Intel Core i3 13th Gen 1315U,16.0,Intel Core i3,Windows 11,512.0,15.6,Intel,2.6,6.5,36990,4.5
+Lenovo IdeaPad 3 Intel Core i3 12th Gen 1215U,8.0,Intel Core i3,Windows 11,512.0,14.0,Intel,1.85,6.0,35990,4.2
+Lenovo Yoga Slim 7 Intel Core Ultra 5 125H,16.0,Other,Windows 11,512.0,14.0,Intel,1.04,7.8,75900,4.4
+DELL Latitude 3540,16.0,Intel Core i3,Windows 11,512.0,15.6,Intel,1.54,8.6,33490,3.9
+Lenovo IdeaPad Slim 1 AMD Ryzen 5 Quad Core 7520U,8.0,AMD Ryzen 5,Windows 11,512.0,15.6,AMD,2.08,6.9,34990,4.2
+DELL 15 Intel Core i7 13th Gen 1355U,16.0,Intel Core i7,Windows 11,512.0,15.6,Intel,2.27,10.0,69490,4.3
+ASUS Vivobook 15 Intel Core i3 13th Gen 1315U,8.0,Intel Core i3,Windows 11,512.0,15.6,Intel,1.52,7.4,35990,3.7
+ASUS TUF Gaming A15 AMD Ryzen 5 Hexa Core 7535HS,8.0,AMD Ryzen 5,Windows 11,512.0,15.6,AMD,1.28,8.6,52990,3.6
+HP AMD Ryzen 5 Quad Core 7520U,8.0,AMD Ryzen 5,Windows 11,512.0,15.6,AMD,2.67,6.8,35990,3.8
+ASUS Vivobook 15 Intel Core i5 13th Gen 1334U,16.0,Intel Core i5,Windows 11,512.0,15.6,Intel,2.97,7.9,49990,4.2
+Lenovo IdeaPad Slim 5 AI PC Intel Core Ultra 5 125H,16.0,Other,Windows 11,1024.0,16.0,Intel,2.05,5.4,74990,4.2
+ASUS Vivobook 15 Intel Core i5 13th Gen 1335U,8.0,Intel Core i5,Windows 11,512.0,15.6,Intel,1.34,5.6,46990,3.3
+DELL 15 AMD Ryzen 5 Quad Core 7520U,8.0,AMD Ryzen 5,Windows 11,512.0,15.6,AMD,1.54,7.0,36990,4.2
+HP AMD Ryzen 5 Hexa Core 5500U,16.0,AMD Ryzen 5,Windows 11,512.0,15.6,AMD,1.04,7.9,45490,4.3
+HP 255 G10 AMD Ryzen 3 Octa Core 13th Gen AMD Ryzen,,AMD Ryzen 3,Windows 11,512.0,15.6,AMD,2.83,9.5,27990,3.6
+Lenovo V15 Series AMD Ryzen 5 Quad Core 7520U,8.0,AMD Ryzen 5,Windows 11,512.0,15.6,AMD,1.24,8.9,34990,3.9
+Acer Predator Helios 16 Intel Core i7 14th Gen 14700HX,16.0,Intel Core i7,Windows 11,1024.0,16.0,Intel,2.15,9.0,189990,Not found
+HP 14R,16.0,Intel Core i3,Windows 11,512.0,14.0,Intel,1.55,7.1,33949,4.5
+Acer Aspire 3 Intel Celeron Dual Core N4500,8.0,Intel Celeron,Windows 11,512.0,15.6,Intel,2.11,5.0,22990,3.9
+Apple Apple M3,24.0,Apple M3,,512.0,13.6,Apple,2.3,14.2,144990,Not found
+DELL G15 Intel Core i7 13th Gen 13650HX,16.0,Intel Core i7,Windows 11,512.0,15.6,Intel,2.66,10.0,90990,4.7
+DELL Inspiron 15 with Backlit Keyboard,8.0,Intel Core i5,Windows 11,512.0,15.6,Intel,1.41,5.2,47990,4.2
+Lenovo V15 AMD Ryzen 3 Quad Core 7320U,8.0,AMD Ryzen 3,Windows 11,512.0,15.6,AMD,1.02,9.5,27190,4.2
+HP Intel Core 3 14th Gen 100U,8.0,Other,Windows 11,512.0,15.6,Intel,1.27,7.9,36990,Not found
+HP AMD Athlon Dual Core,8.0,Other,Windows 11,256.0,15.6,AMD,2.8,7.8,24900,4
+HP MS Office 2024 Intel Core i7 13th Gen 1355U,16.0,Intel Core i7,Windows 11,512.0,15.6,Intel,2.75,8.9,64990,Not found
+DELL Intel Core i3 13th Gen 1305U,8.0,Intel Core i3,Windows 11,512.0,15.6,Intel,2.19,6.0,36250,4.1
+ASUS ROG Ally AMD Ryzen Z1 Octa Core Extreme,16.0,Other,Windows 11,512.0,7.0,AMD,2.2,9.5,39490,4.4
+Acer Aspire 3 Intel Celeron Dual Core N4500,8.0,Intel Celeron,Windows 11,512.0,14.0,Intel,2.33,6.7,21990,3.9
+Acer Aspire Lite Intel Core i3 13th Gen 1305U,16.0,Intel Core i3,Windows 11,512.0,15.6,Intel,1.35,5.8,32990,4.1
+Acer Aspire Lite with Backlit Keyboard,16.0,Intel Core i5,Windows 11,512.0,15.6,Intel,2.83,6.4,43990,4.3
+MSI Thin 15 Intel Core i5 12th Gen 12450H,16.0,Intel Core i5,Windows 11,512.0,15.6,Intel,1.84,7.6,54990,4.4
+Lenovo V14 Intel Core i5 12th Gen 1235U,16.0,Intel Core i5,Windows 11,512.0,14.1,Intel,1.77,8.7,42990,4.1
+MSI Modern 14 AMD Ryzen 5 Hexa Core 7530U,8.0,AMD Ryzen 5,Windows 11,512.0,14.0,AMD,2.04,6.8,36990,4.4
+Acer Aspire Lite AMD Ryzen 7 Octa Core 5700U,16.0,AMD Ryzen 7,Windows 11,1024.0,15.6,AMD,1.09,8.5,50990,4
+Acer Aspire 3 Backlit Intel Core i5 12th Gen 1235U,8.0,Intel Core i5,Windows 11,512.0,14.0,Intel,1.33,7.7,42990,4.1
+MSI Modern 14 Intel Core i3 12th Gen 1215U,8.0,Intel Core i3,Windows 11,512.0,14.0,Intel,2.48,6.7,30990,4.4
+Acer Nitro V AMD Ryzen 5 Hexa Core 7535HS,16.0,AMD Ryzen 5,Windows 11,512.0,15.6,AMD,1.17,6.5,57990,4.4
+HP 15 G9,16.0,AMD Ryzen 3,Windows 11,512.0,15.6,AMD,2.21,8.6,28499,4.1
+ASUS Vivobook Go 15 OLED AMD Ryzen 5 Quad Core 7520U,8.0,AMD Ryzen 5,Windows 11,512.0,15.6,AMD,1.49,9.6,40990,4.4
+MSI Thin 15 Intel Core i7 13th Gen 13620H,16.0,Intel Core i7,Windows 11,1024.0,15.6,Intel,1.78,6.7,84990,4.2
+HP 14 G9,16.0,AMD Ryzen 5,Windows 11,512.0,14.0,AMD,1.58,6.2,34990,3
+GIGABYTE G6 MF,16.0,Intel Core i7,Windows 11,512.0,16.0,Intel,1.71,9.9,69990,Not found
+HP G8 Intel Core i3 12th Gen 12 gen,16.0,Intel Core i3,Windows 11,512.0,15.6,Intel,2.44,5.0,34750,3.9
+Acer Aspire Lite AMD Ryzen 5 Hexa Core 5625U,16.0,AMD Ryzen 5,Windows 11,512.0,15.6,AMD,1.59,9.4,49990,4.1
+Lenovo IdeaPad 1 Intel Celeron Dual Core N4020,8.0,Intel Celeron,Windows 11,512.0,14.0,Intel,2.13,5.5,24990,3.9
+DELL Latitude 3440,16.0,Intel Core i3,Windows 11,512.0,14.0,Intel,1.95,6.2,32680,Not found
+Lenovo IdeaPad Slim 3 Intel Core i5 13th Gen 13420H,16.0,Intel Core i5,Windows 11,512.0,15.6,Intel,2.33,8.5,57250,4.3
+MSI Intel Core i3 12th Gen 1215U,8.0,Intel Core i3,Windows 11,512.0,14.0,Intel,2.87,5.8,27990,4.8
+Lenovo IdeaPad Slim 3 AMD Ryzen 3 Quad Core 7320U,8.0,AMD Ryzen 3,Windows 11,512.0,14.0,AMD,2.47,8.1,29690,4.7
+Acer Aspire Lite Intel Core i3 12th Gen 1215U,16.0,Intel Core i3,Windows 11,1024.0,15.6,Intel,1.43,5.6,36990,4.1
+Acer Aspire 3 Intel Core i3 12th Gen 1215U,8.0,Intel Core i3,Windows 11,512.0,15.6,Intel,1.06,6.3,32990,4.3
+ASUS Vivobook 15,16.0,Intel Core i3,Windows 11,512.0,15.6,Intel,1.52,5.8,37990,4.4
+DELL Inspiron 15 with Backlit Keyboard,16.0,Intel Core i5,Windows 11,512.0,15.6,Intel,2.19,7.0,56990,4.2
+HP AMD Ryzen 5 Hexa Core 5500U,8.0,AMD Ryzen 5,Windows 11,512.0,15.6,AMD,1.1,9.9,35990,4.2
+MSI Sword 16 HX Intel Core i7 14th Gen 14700HX,16.0,Intel Core i7,Windows 11,1024.0,16.0,Intel,1.99,7.0,104990,4.6
+HP 250 G9 Intel Celeron Dual Core 12th Gen 4500u,8.0,Intel Celeron,DOS,256.0,15.6,Intel,2.19,6.0,23390,3.6
+Lenovo AMD Ryzen 3 Quad Core 7330U,8.0,AMD Ryzen 3,Windows 11,512.0,15.6,AMD,1.67,7.3,31990,4.1
+MSI Modern 15 Intel Core i7 12th Gen 1255U,16.0,Intel Core i7,Windows 11,1024.0,15.6,Intel,2.54,9.1,51990,4.3
+Lenovo Intel Core i3 12th Gen,16.0,Intel Core i3,Windows 11,512.0,15.6,Intel,1.21,4.9,32350,4
+Lenovo IdeaPad Slim 1 Intel Celeron Dual Core N4020,8.0,Intel Celeron,Windows 11,256.0,14.0,Intel,1.15,6.9,25790,4.1
+ASUS Vivobook Go 14 AMD Ryzen 5 Quad Core 7520U,8.0,AMD Ryzen 5,Windows 11,512.0,14.0,AMD,2.46,7.8,35890,4.3
+MSI Modern 15 Intel Core i3 12th Gen 1215U,8.0,Intel Core i3,Windows 11,512.0,15.6,Intel,1.99,5.2,31990,4.1
+Infinix ZERO BOOK ULTRA Series Laptop Intel Intel Core i9 12th Gen 12900H,16.0,Intel Core i9,Windows 11,512.0,15.6,Intel,2.38,5.4,72999,4.2
+DELL 15 Intel Core i3 13th Gen 1305U,8.0,Intel Core i3,Windows 11,512.0,15.6,Intel,1.87,5.0,35990,3.4
+HP 15s Intel Core i5 12th Gen 1235U,8.0,Intel Core i5,Windows 11,512.0,15.6,Intel,1.49,7.3,43999,4.3
+Lenovo AMD Ryzen 3 Quad Core 7330U,8.0,AMD Ryzen 3,Windows 11,512.0,14.0,AMD,2.64,7.3,33990,4
+Lenovo V14 Intel Core i5 12th Gen 1235U,8.0,Intel Core i5,Windows 11,512.0,14.0,Intel,2.6,8.4,40800,4.1
+HP Pro G10 Intel Core i7 13th Gen 1335U Turbo Boost Technoly,32.0,Intel Core i7,Windows 11,1024.0,14.0,Intel,2.39,7.7,79800,4.4
+MOTOROLA Motobook 60 Full Metal Intel Core 5,16.0,Other,Windows 11,512.0,14.0,Intel,1.54,6.2,62990,4.2
+MOTOROLA Motobook 60 Full Metal Intel Core 7,16.0,Other,Windows 11,512.0,14.0,Intel,2.18,8.1,70990,4.2
+Lenovo V15 G2 Intel Core i3 11th Gen 1115G4,8.0,Intel Core i3,Windows 11,512.0,15.6,Intel,1.72,6.6,31749,4.2
+Lenovo Intel Core i7 12th Gen 1255U,16.0,Intel Core i7,Windows 11,512.0,15.6,Intel,1.18,6.7,46990,4.1
+Infinix X3 Slim Intel Intel Core i7 12th Gen 1255U,16.0,Intel Core i7,Windows 11,512.0,14.0,Intel,2.83,6.7,42990,4.2
+Lenovo LOQ Intel Core i7 13th Gen 13650HX,24.0,Intel Core i7,Windows 11,512.0,15.6,Intel,1.27,6.1,112491,4.3
+MSI Modern 14 Intel Core i5 12th Gen 1235U,16.0,Intel Core i5,Windows 11,512.0,14.0,Intel,2.9,8.1,41500,4.3
+Lenovo IdeaPad Slim 1 Intel Celeron Dual Core N4020,8.0,Intel Celeron,Windows 11,256.0,14.0,Intel,1.89,6.0,22000,4
+Lenovo IdeaPad Flex 5 Intel Core i3 13th Gen 1315U,8.0,Intel Core i3,Windows 11,512.0,14.0,Intel,1.37,5.9,53990,4.3
+MSI Thin 15 Intel Core i5 12th Gen 12450H,16.0,Intel Core i5,Windows 11,512.0,15.6,Intel,2.08,8.5,69990,Not found
+Acer Aspire 3 Intel Celeron Dual Core N4500,8.0,Intel Celeron,Windows 11,512.0,15.6,Intel,2.75,6.4,23490,3.8
+Infinix Y3 Max Series Intel Core i7 12th Gen 1255U,16.0,Intel Core i7,Windows 11,512.0,16.0,Intel,2.46,8.3,39990,4.8
+DELL G15 Intel Core i7 13th Gen 13650HX,16.0,Intel Core i7,Windows 11,1024.0,15.6,Intel,2.61,9.5,119490,Not found
+DELL AMD Ryzen 5 Hexa Core 5500U,8.0,AMD Ryzen 5,Windows 11,512.0,15.6,AMD,2.32,6.8,39990,3.8
+Acer Nitro V AMD Ryzen 7 Octa Core 7735HS,16.0,AMD Ryzen 7,Windows 11,512.0,15.6,AMD,2.38,6.4,77990,4.2
+Lenovo Intel Core i5 12th Gen 1235U,8.0,Intel Core i5,Windows 11,512.0,15.6,Intel,2.7,6.4,37341,4.2
+HP 14R,16.0,Intel Core i3,Windows 11,512.0,14.0,Intel,1.5,5.3,34340,Not found
+HP Victus Intel Core i5 12th Gen 12450H,8.0,Intel Core i5,Windows 11,512.0,15.6,Intel,1.98,7.4,54990,4.3
+Infinix ZERO BOOK Series Laptop Intel Intel Core i7 12th Gen 12700H,16.0,Intel Core i7,Windows 11,512.0,15.6,Intel,1.44,9.7,58999,3.7
+Lenovo ThinkBook 16 G6 Intel Core i3 13th Gen 1315U,8.0,Intel Core i3,Windows 11,512.0,16.0,Intel,2.98,4.6,73800,4.3
+Acer Aspire 5 15 Intel Core i5 13th Gen 1335U,16.0,Intel Core i5,Windows 11,512.0,15.6,Intel,2.89,5.9,59990,4.3
+ASUS Vivobook 16,,Snapdragon,Windows 11,512.0,16.0,,1.08,7.3,62990,4.1
+Lenovo V 14,8.0,Intel Core i5,Windows 11,512.0,14.0,Intel,2.41,9.7,40490,3.6
+Infinix ZEROBOOK 13 Intel Intel Core i7 13th Gen 13700H,16.0,Intel Core i7,Windows 11,512.0,15.3,Intel,2.85,7.3,54990,4
+Acer TravelMate P2 Intel Core i7 11th Gen 1165G7,16.0,Intel Core i7,Windows 11,1024.0,14.0,Intel,1.36,8.0,99000,3.8
+ASUS Vivobook 14,16.0,Other,Windows 11,512.0,14.0,Intel,2.14,5.2,69990,4.8
+DELL Inspiron 15 with Backlit Keyboard,8.0,Intel Core i5,Windows 11,512.0,15.6,Intel,2.83,5.7,47990,4.3
+Lenovo IdeaPad Slim 5 Intel Core i5 13th Gen 13500H,16.0,Intel Core i5,Windows 11,512.0,16.0,Intel,1.07,9.0,75990,4.2
+Acer Aspire 5 15 Intel Core i3 13th Gen 1305U,8.0,Intel Core i3,Windows 11,512.0,15.6,Intel,2.39,7.4,39990,3.9
+DELL Inspiron 15 with Backlit Keyboard,8.0,Intel Core i5,Windows 11,512.0,15.6,Intel,1.59,5.0,53690,4.2
+MSI AMD Ryzen 7 Octa Core 7730U,16.0,AMD Ryzen 7,Windows 11,512.0,14.0,AMD,2.85,9.8,46990,Not found
+Lenovo IdeaPad 1 AMD Ryzen 7 Octa Core 5700U,16.0,AMD Ryzen 7,Windows 11,512.0,15.6,AMD,2.94,8.6,47990,4
+MSI Sword 16 HX Intel Core i7 14th Gen 14700HX,16.0,Intel Core i7,Windows 11,1024.0,16.0,Intel,2.89,9.5,129990,3.7
+Lenovo V15 Intel Intel Core i5 11th Gen 1135G7,8.0,Intel Core i5,Windows 11,512.0,15.6,Intel,1.95,7.1,37990,4.1
+MSI Intel Core i5 12th Gen 1235U,16.0,Intel Core i5,Windows 11,512.0,14.0,Intel,2.72,7.3,40490,Not found
+DELL Vostro 3520 Intel Core i5 12th Gen 1235U,16.0,Intel Core i5,Windows 11,512.0,15.6,Intel,2.69,7.2,48990,4.3
+Apple MacBook Air Apple M4,16.0,Other,,256.0,15.3,Apple,1.64,16.0,124900,4.7
+Lenovo Legion Go AMD Ryzen Z1 Extreme,16.0,Other,Windows 11,512.0,8.8,AMD,2.66,6.6,69990,4.8
+MSI AMD Ryzen 5 Hexa Core 7530U,16.0,AMD Ryzen 5,Windows 11,512.0,14.0,AMD,1.07,6.1,39990,Not found
+ASUS Vivobook Go 15 AMD Ryzen 5 Quad Core 7520U,16.0,AMD Ryzen 5,Windows 11,512.0,15.6,AMD,2.19,7.2,44199,3.7
+Infinix ZEROBOOK 13 Intel Intel Core i7 13th Gen 13700H,32.0,Intel Core i7,Windows 11,1024.0,15.6,Intel,1.46,8.8,67990,4
+Lenovo IdeaPad Slim 3 Intel Core i5 12th Gen 12450H,8.0,Intel Core i5,Windows 11,512.0,14.0,Intel,1.24,6.2,45490,4.2
+ASUS Zenbook 14 OLED AI PC Intel Core Ultra 9 185H,32.0,Other,Windows 11,1024.0,14.0,Intel,1.15,8.4,134990,5
+HP Chromebook MediaTek MT8183,4.0,MediaTek,,,11.6,,2.39,9.8,15200,3.7
+MSI Modern 14 AMD Ryzen 5 Hexa Core 7530U,16.0,AMD Ryzen 5,Windows 11,512.0,14.0,AMD,1.68,6.4,39990,4.4
+HP Victus Intel Core i5 12th Gen 12450H,16.0,Intel Core i5,Windows 11,512.0,15.6,Intel,2.45,7.9,61990,4.2
+Lenovo IdeaPad Slim 3 Intel Core i3 13th Gen 1305U,8.0,Intel Core i3,Windows 11,512.0,15.6,Intel,1.13,5.8,36500,4.1
+DELL MSO,8.0,Intel Core i3,Windows 11,512.0,15.5,Intel,1.63,9.3,35890,4.2
+DELL Inspiron 15 3520 Intel Core i5 12th Gen Core i5,8.0,Intel Core i5,Windows 11,512.0,15.6,Intel,2.08,6.1,52680,3.9
+Acer Aspire 3 Intel Core i3 12th Gen,8.0,Intel Core i3,Windows 11,512.0,15.6,Intel,2.58,6.6,28990,4.2
+ASUS Vivobook Go 15,8.0,Intel Core i3,Windows 11,512.0,15.6,Intel,1.64,9.2,34990,4.4
+ASUS Vivobook 15 Intel Core i5 13th Gen 1334U,8.0,Intel Core i5,Windows 11,512.0,15.6,Intel,2.25,8.8,46990,4.2
+Lenovo 100e Chromebook Gen 4 MediaTek Kompanio 520,4.0,MediaTek,,,11.6,,2.77,8.4,12999,Not found
+ASUS TUF Gaming F15 Intel Core i5 12th Gen 12500H,16.0,Intel Core i5,Windows 11,512.0,15.6,Intel,2.23,7.2,64990,4.4
+ASUS Expertbook P5 full metal AI PC Intel Core Ultra 7 258V,32.0,Other,Windows 11,1024.0,14.0,Intel,1.47,8.1,119990,Not found
+DELL Inspiron 15 with Backlit Keyboard,8.0,Intel Core i3,Windows 11,512.0,15.6,Intel,1.05,9.3,37990,4.1
+Lenovo V 14,16.0,Intel Core i5,Windows 11,512.0,14.0,Intel,2.74,7.9,42490,4
+MSI Modern 14 Intel Core i7 13th Gen 1355U,16.0,Intel Core i7,Windows 11,512.0,14.0,Intel,1.04,6.1,57990,4.1
+MSI AMD Ryzen 5 Hexa Core 7530U,8.0,AMD Ryzen 5,Windows 11,512.0,14.0,AMD,2.75,9.7,36990,Not found
+ASUS Vivobook Go 15 AMD Ryzen 5 Quad Core 7520U,16.0,AMD Ryzen 5,Windows 11,512.0,15.6,AMD,2.06,8.8,40790,4.2
+ASUS Zenbook 14 OLED AI PC Intel Core Ultra 9 185H,32.0,Other,Windows 11,1024.0,14.0,Intel,2.88,8.4,134990,4.4
+HP Victus Intel Core i5 12th Gen,16.0,Intel Core i5,Windows 11,512.0,15.6,Intel,2.6,6.3,56990,4.3
+ASUS TUF Gaming F15 Intel Core i7 12th Gen 12700H,16.0,Intel Core i7,Windows 11,1024.0,15.6,Intel,3.0,8.6,181990,4.7
+Lenovo IdeaPad Flex 5 Intel Core i5 13th Gen 1335U,16.0,Intel Core i5,Windows 11,512.0,14.0,Intel,1.7,6.9,74990,4.3
+DELL Inspiron 5440 Intel Core i5 13th Gen 1334U,16.0,Intel Core i5,Windows 11,1024.0,14.0,Intel,2.53,7.8,80699,Not found
+MSI Intel Core i7 12th Gen 1255U,16.0,Intel Core i7,Windows 11,512.0,14.0,Intel,1.8,6.4,43990,Not found
+Lenovo V14 Intel Core i5 11th Gen 1135G7,8.0,Intel Core i5,Windows 10,256.0,14.0,Intel,1.96,7.8,39999,4.2
+MSI Thin A15 AMD Ryzen 7 Octa Core 7735HS,16.0,AMD Ryzen 7,Windows 11,1024.0,15.6,AMD,2.26,10.0,92990,4.9
+ASUS TUF Gaming A16 Advantage Edition AMD Ryzen 7 Octa Core 7435HS,16.0,AMD Ryzen 7,Windows 11,512.0,16.0,AMD,2.75,6.2,85491,4.3
+DELL Inspiron 15 3520 with Backlit Keyboard,16.0,Intel Core i5,Windows 11,512.0,15.6,Intel,2.97,9.9,51490,4.1
+Primebook Wifi Android based MediaTek MT8183,4.0,MediaTek,,,11.6,,2.54,7.0,12990,Not found
+Lenovo Legion 5 Intel Core i7 13th Gen 13650HX,24.0,Intel Core i7,Windows 11,512.0,15.6,Intel,1.84,9.5,114990,4.6
+HP Victus Intel Core i7 12th Gen 12650H,16.0,Intel Core i7,Windows 11,1024.0,15.6,Intel,1.84,9.1,80899,4
+ASUS Chromebook Intel Celeron Dual Core N4500,4.0,Intel Celeron,,,15.6,Intel,2.48,5.7,32990,3.8
+Lenovo IdeaPad Flex 5 AMD Ryzen 5 Hexa Core 7530U,16.0,AMD Ryzen 5,Windows 11,512.0,14.0,AMD,1.48,9.0,60490,4.2
+ASUS Vivobook S 15 OLED Intel Core i9 13th Gen 13900H,16.0,Intel Core i9,Windows 11,512.0,15.6,Intel,1.22,9.4,84990,3.9
+ASUS Zenbook 14 OLED,16.0,Other,Windows 11,1024.0,14.0,Intel,1.71,7.0,107990,Not found
+Primebook Wifi Android based MediaTek MT8183,4.0,MediaTek,,,11.6,,1.57,6.6,11990,Not found
+HP 250 G9 Intel Celeron Dual Core N4500,8.0,Intel Celeron,Windows 11,256.0,15.6,Intel,1.59,6.0,23490,4.1
+Lenovo V14 Intel Core i3 11th Gen,8.0,Intel Core i3,Windows 10,256.0,14.0,Intel,1.47,6.9,30749,4.8
+Lenovo IdeaPad Slim 5 Intel Core i7 13th Gen 13700H,16.0,Intel Core i7,Windows 11,1024.0,16.0,Intel,1.08,9.0,79990,4.1
+ASUS Vivobook S 14,24.0,Other,Windows 11,512.0,14.0,AMD,1.04,9.0,104990,4.7
+HP Victus gaming AMD Ryzen 5 Hexa Core 5600H,8.0,AMD Ryzen 5,Windows 11,512.0,15.6,AMD,2.98,7.7,49990,4.2
+HP Victus Intel Core i7 13th Gen 13700H,16.0,Intel Core i7,Windows 11,512.0,15.6,Intel,1.86,9.3,94990,4.5
+SAMSUNG Galaxy Book4 Intel Core 5 120U,8.0,Other,Windows 11,512.0,15.6,Intel,1.77,5.6,55990,4.4
+ASUS Vivobook S14,16.0,Intel Core i5,Windows 11,512.0,14.0,Intel,2.36,7.7,67990,Not found
+DELL Inspiron Intel Core i3 13th Gen 1305U,8.0,Intel Core i3,Windows 11,512.0,15.6,Intel,1.44,4.5,37990,3.7
+ASUS Vivobook Go 15 Intel Celeron Dual Core N4020,8.0,Intel Celeron,Windows 11,512.0,15.6,Intel,2.9,5.0,26990,4
+ASUS ROG Zephyrus G16 AMD Ryzen AI 9 12 Core HX 370,16.0,Other,Windows 11,1024.0,16.0,AMD,2.57,7.5,184990,Not found
+DELL Inspiron AMD Ryzen 5 Hexa Core 5625U,8.0,AMD Ryzen 5,Windows 11,512.0,15.6,,1.18,7.6,56999,3.9
+MSI GF63 Intel Core i5 12th Gen 12450H,8.0,Intel Core i5,Windows 11,512.0,15.6,Intel,1.84,7.9,50999,4.4
+Apple MacBook Air Apple M4,16.0,Other,,512.0,13.6,Apple,2.76,14.3,119900,4.7
+ASUS VivoBook K15 OLED AMD Ryzen 5 Hexa Core AMD R5,8.0,AMD Ryzen 5,Windows 11,1024.0,15.6,AMD,2.89,7.8,49999,4.4
+HP Laptop Intel Core i5 12th Gen 1235U,8.0,Intel Core i5,Windows 11,512.0,15.6,Intel,1.93,6.3,42990,4.2
+Lenovo 100e Chromebook Gen 4 MediaTek MediaTek Kompanio 528,4.0,MediaTek,,,11.6,,2.23,6.9,13999,Not found
+Lenovo V 15,16.0,Intel Core i5,Windows 11,512.0,15.6,Intel,1.33,6.1,44490,5
+Lenovo V 14,8.0,Intel Core i3,Windows 11,512.0,14.0,Intel,2.98,5.4,31750,4.8
+Lenovo Yoga 7 Intel Core i5 13th Gen 1340P,16.0,Intel Core i5,Windows 11,512.0,14.0,Intel,1.46,7.6,79990,4.5
+ASUS VivoBook 15 Intel Core i5 10th Gen 1035G1,8.0,Intel Core i5,Windows 11,512.0,15.6,Intel,2.89,7.8,41990,4.3
+Lenovo V 14,8.0,Intel Core i5,Windows 11,512.0,14.0,Intel,2.3,8.1,40990,4.7
+DELL Intel Core i5 13th Gen,8.0,Intel Core i5,Windows 11,1024.0,14.0,Intel,2.22,7.1,57990,4
+MSI AMD Ryzen 5 Hexa Core 7530U,16.0,AMD Ryzen 5,Windows 11,512.0,15.0,AMD,2.03,7.5,39990,Not found
+Acer Aspire Lite Intel Core i3 12th Gen 1215U,8.0,Intel Core i3,Windows 11,512.0,15.6,Intel,1.46,7.1,30990,4.1
+ASUS Vivobook S 15 OLED Powered,16.0,Other,Windows 11,1024.0,15.6,Intel,1.35,7.6,96990,4.2
+Acer Aspire 3 Intel Core i3 12th Gen 1215U,8.0,Intel Core i3,Windows 11,512.0,14.0,Intel,1.44,5.9,30990,4.2
+HP 15 G10,8.0,AMD Ryzen 3,Windows 11,512.0,15.6,AMD,1.37,5.1,27280,3.5
+HP Victus Intel Core i5 12th Gen 12450H,16.0,Intel Core i5,Windows 11,512.0,15.6,Intel,2.56,6.7,62990,4.4
+Acer Chromebook Intel Celeron Dual Core N4500,4.0,Intel Celeron,,,11.6,Intel,1.7,5.1,18999,4.1
+ASUS Expertbook P5 full metal AI PC Intel Core Ultra 5 226V,16.0,Other,Windows 11,1024.0,14.0,Intel,1.12,7.0,94990,Not found
+ASUS Vivobook 15,16.0,Intel Core i5,Windows 11,512.0,15.6,Intel,2.94,7.9,45990,3.8
+GIGABYTE G6X 9MG,16.0,Intel Core i7,Windows 11,1024.0,16.0,Intel,2.77,7.7,75990,Not found
+HP 255 G9 AMD Ryzen 3 Dual Core 3250,8.0,AMD Ryzen 3,Windows 11,512.0,15.6,AMD,2.86,8.4,27200,4
+HP 15s Intel Core i5 12th Gen 1235U,16.0,Intel Core i5,Windows 11,512.0,15.6,Intel,2.99,8.2,49400,4.1
+HP 250 G9 Intel Core i3 12th Gen Intel Core i3 1215U,8.0,Intel Core i3,Windows 11,512.0,15.6,Intel,1.35,6.9,33200,4.2
+DELL Intel Celeron Quad Core,8.0,Intel Celeron,Windows 11,256.0,14.0,Intel,1.79,6.2,21990,Not found
+ASUS ROG Zephyrus G14 with 76WHr Battery AMD Ryzen 9 Octa Core 5900HS,16.0,AMD Ryzen 9,Windows 10,1024.0,14.0,AMD,2.52,9.8,86651,4.3
+ASUS Vivobook 16X for Creator,16.0,Intel Core i5,Windows 11,512.0,16.0,Intel,2.39,5.1,71899,4.2
+MSI Bravo 15 AMD Ryzen 7 Octa Core 7735HS,16.0,AMD Ryzen 7,Windows 11,512.0,15.6,AMD,1.31,6.8,62999,4.4
+HP 250R G9 Intel Core i3 13th Gen 1315U,8.0,Intel Core i3,Windows 11,512.0,15.6,Intel,2.63,4.5,32400,4.2
+ASUS Chromebook Touch Intel Celeron Dual Core N3350,4.0,Intel Celeron,,,15.6,Intel,1.45,5.9,17566,3.8
+MSI GF63 Intel Core i7 12th Gen 12650H,16.0,Intel Core i7,Windows 11,512.0,15.6,Intel,1.45,9.6,82999,4.3
+Lenovo IdeaPad Slim 3 Intel Core i3 12th Gen 1215U,8.0,Intel Core i3,Windows 11,256.0,15.6,Intel,2.07,5.2,34990,4.2
+MSI Modern 14 Intel Core i5 13th Gen 1335U,8.0,Intel Core i5,Windows 11,512.0,14.0,Intel,2.19,8.7,42990,4.2
+Lenovo V 15,8.0,Intel Core i5,Windows 11,512.0,15.6,Intel,2.16,5.3,41750,Not found
+Lenovo Intel Celeron Dual Core 4th Gen,8.0,Intel Celeron,DOS,256.0,15.6,Intel,1.18,6.8,23900,3.7
+Primebook 4G Android based MediaTek MT8183,4.0,MediaTek,,,11.6,,2.75,6.8,14990,Not found
+ASUS Intel Celeron Dual Core N4500,4.0,Intel Celeron,Windows 11,256.0,15.6,Intel,1.53,4.3,23990,Not found
+Lenovo ThinkBook 15 Intel Core i7 12th Gen 1255U,16.0,Intel Core i7,Windows 11,512.0,15.6,Intel,1.26,7.9,67999,Not found
+ASUS Vivobook Intel Core i3 12th Gen 1215U,8.0,Intel Core i3,Windows 11,512.0,15.6,Intel,2.78,5.3,34990,4.3
+Lenovo Intel Core i5 12th Gen,16.0,Intel Core i5,Windows 11,512.0,14.0,Intel,2.91,6.5,49890,Not found
+HP Pavilion 15 AMD Ryzen 7 Octa Core 7730U,16.0,AMD Ryzen 7,Windows 11,512.0,15.6,AMD,2.72,7.2,66490,4
+Lenovo IdeaPad Slim 5 Intel Core i5 12th Gen 12450H,16.0,Intel Core i5,Windows 11,512.0,14.0,Intel,2.62,8.3,57990,4.2
+HP Victus AMD Ryzen 7 Octa Core 8845HS,16.0,AMD Ryzen 7,Windows 11,512.0,15.6,AMD,2.31,8.2,82990,4.3
+HP Victus AMD Ryzen 7 Octa Core 8845HS,16.0,AMD Ryzen 7,Windows 11,1024.0,15.6,AMD,2.1,7.2,87990,4.3
+HP 255 G10 AMD Ryzen 5 Quad Core 7520U UPTO 4,8.0,AMD Ryzen 5,Windows 11,512.0,15.6,AMD,1.17,8.4,30490,3.7
+ASUS Zenbook 14 OLED,32.0,Other,Windows 11,1024.0,14.0,Intel,1.82,8.6,127990,3.3
+Lenovo V 14,8.0,AMD Ryzen 3,Windows 11,512.0,14.0,AMD,1.75,6.4,26900,Not found
+DELL Intel Core i5 12th Gen 1235U,16.0,Intel Core i5,Windows 11,512.0,15.6,Intel,1.52,6.9,81990,3.5
+HP Victus Intel Core i5 13th Gen 13420H,16.0,Intel Core i5,Windows 11,1024.0,15.6,Intel,2.45,5.9,56999,4.3
+Lenovo V 14,16.0,Intel Core i3,Windows 11,512.0,14.0,Intel,1.99,5.9,33990,Not found
+ASUS Vivobook 15 Intel Core i5 11th Gen 1135G7,8.0,Intel Core i5,Windows 11,512.0,15.6,Intel,1.16,7.9,39890,4.3
+HP Victus Intel Core i5 12th Gen 12450H,16.0,Intel Core i5,Windows 11,1024.0,15.6,Intel,1.44,6.1,79990,4.2
+Lenovo V15 G2 AMD Ryzen 3 Quad Core 5300U,8.0,AMD Ryzen 3,Windows 11,512.0,15.6,AMD,2.37,8.1,28090,3.6
+ASUS Zenbook 14 OLED,32.0,Other,Windows 11,1024.0,14.0,Intel,1.15,8.5,155990,Not found
+ASUS Vivobook 15 Intel Core i5 12th Gen 1235U,8.0,Intel Core i5,Windows 11,512.0,15.6,Intel,2.7,5.9,49500,4.2
+Lenovo Intel Core i5 13th Gen,16.0,Intel Core i5,Windows 11,512.0,16.0,Intel,1.99,7.5,57990,Not found
+ASUS TUF Gaming A15 AMD Ryzen 5 Hexa Core 7535HS,16.0,AMD Ryzen 5,Windows 11,512.0,15.6,AMD,1.96,7.0,71990,Not found
+Primebook 4G Android Based MediaTek MT8788,4.0,MediaTek,,,11.6,,2.18,9.8,14990,4.2
+DELL Inspiron 3530 Intel Core i3 13th Gen 1305U,8.0,Intel Core i3,Windows 11,1024.0,15.6,Intel,2.65,6.0,43490,4.2
+Lenovo IdeaPad Slim 3 Intel Core 5 120U,16.0,Other,Windows 11,512.0,15.6,Intel,1.7,9.0,58990,Not found
+MSI Modern 15 Intel Core i3 13th Gen 1315U,8.0,Intel Core i3,Windows 11,512.0,15.6,Intel,2.36,6.2,36990,4.2
+HP AMD Ryzen 5 Quad Core 7th Gen,8.0,AMD Ryzen 5,Windows 11,512.0,14.0,AMD,2.13,6.2,39990,Not found
+Infinix Y4 Max Series Intel Core i3 13th Gen 1315U,16.0,Intel Core i3,Windows 11,512.0,16.0,Intel,1.53,6.4,32990,4.3
+Lenovo IdeaPad 5 Intel Core i5 13th Gen 13420H,16.0,Intel Core i5,Windows 11,512.0,14.0,Intel,2.76,8.8,67990,4.6
+DELL Inspiron 3520 Intel Core i3 11th Gen 1115G4,8.0,Intel Core i3,Windows 11,512.0,15.6,Intel,2.59,6.3,38990,3.7
+HP Pavilion x360 Intel Core i5 13th Gen 1335U,16.0,Intel Core i5,Windows 11,1024.0,14.0,Intel,2.32,8.4,77490,4.3
+MSI Modern 14 Intel Core i7 12th Gen 1255U,8.0,Intel Core i7,Windows 11,512.0,14.0,Intel,2.7,9.5,42999,4.3
+HP Victus 15 AMD Ryzen 5 Hexa Core 5600H,16.0,AMD Ryzen 5,Windows 11,512.0,15.3,AMD,2.73,6.9,60990,4.3
+MSI Modern 14 H Intel Core i7 13th Gen 13620H,16.0,Intel Core i7,Windows 11,1024.0,14.0,Intel,2.42,6.8,59990,4.1
+HP Pavilion Intel Core i5 12th Gen 1235U,16.0,Intel Core i5,Windows 11,512.0,14.0,Intel,2.67,7.6,63990,4.3
+Infinix Intel Core i7 1255U,32.0,Intel Core i7,Windows 11,512.0,14.0,Intel,2.39,7.6,44990,4.6
+Acer Aspire 3 Intel Core i7 12th Gen 1255U,16.0,Intel Core i7,Windows 11,1024.0,14.0,Intel,2.36,9.4,68000,4.3
+HP Intel Core i5 12th Gen 1235U,16.0,Intel Core i5,Windows 11,512.0,15.6,Intel,2.24,8.7,49300,4.2
+DELL Intel Core i5 12th Gen 1235U,8.0,Intel Core i5,Windows 11,256.0,15.6,Intel,2.51,6.7,44990,4.1
+HP Victus Intel Core i7 13th Gen 13620H,16.0,Intel Core i7,Windows 11,512.0,15.6,Intel,1.32,6.9,93990,4.2
+HP 15s AMD Ryzen 3 Dual Core 3250U,8.0,AMD Ryzen 3,Windows 11,256.0,15.6,AMD,2.76,9.1,26400,4.2
+Lenovo V 14,8.0,AMD Ryzen 3,Windows 11,512.0,14.0,AMD,2.74,6.4,27990,Not found
+ASUS ROG Strix G16 Intel Core i7 13th Gen 13650HX,16.0,Intel Core i7,Windows 11,1024.0,16.0,Intel,1.06,9.3,129990,Not found
+Lenovo IdeaPad 3 Intel Core i3 12th Gen 1215U,8.0,Intel Core i3,Windows 11,512.0,14.0,Intel,2.65,5.8,34990,4.2
+Lenovo IdeaPad Slim 5 Intel Core i5 12th Gen,16.0,Intel Core i5,Windows 11,512.0,16.0,Intel,1.26,7.8,56990,2.3
+HP 245G9 AMD Ryzen 3 Dual Core AMD Ryzen 3 3250U,8.0,AMD Ryzen 3,Windows 11,512.0,14.0,AMD,1.67,6.4,27900,4.1
+ASUS AMD Ryzen 5 Quad Core,8.0,AMD Ryzen 5,Windows 11,512.0,14.0,AMD,2.49,8.5,34990,4.2
+Colorful P15 Intel Core i5 12th Gen 12450H,16.0,Intel Core i5,Windows 11,512.0,15.6,Intel,1.32,7.1,64990,4.3
+HP G9 AMD Ryzen 5 Hexa Core 5th Gen 5625U,16.0,AMD Ryzen 5,Windows 11,512.0,15.6,AMD,2.64,8.3,34990,4.1
+Lenovo ThinkBook 15 AMD Ryzen 7 Octa Core 7730U,8.0,AMD Ryzen 7,DOS,512.0,15.6,AMD,2.66,6.7,40999,3.6
+HP 15s Intel Core i5 13th Gen 1334U,16.0,Intel Core i5,Windows 11,512.0,15.6,Intel,2.01,8.1,57790,4.2
+ASUS Vivobook S 15 OLED Intel EVO H,16.0,Intel Core i5,Windows 11,512.0,15.6,Intel,1.01,9.3,79890,3.9
+ASUS Vivobook Go 14,16.0,AMD Ryzen 5,Windows 11,512.0,14.0,AMD,1.57,6.1,40890,4.2
+ASUS Intel Ryzen 7 Octa Core 6th Gen,16.0,AMD Ryzen 7,Windows 11,1024.0,14.0,Intel,2.23,5.5,110990,Not found
+Apple MacBook AIR Apple M2,8.0,Apple M2,,512.0,13.6,Apple,2.96,12.1,82990,4.7
+Lenovo V15 AMD Ryzen 3 Quad Core 5300U,8.0,AMD Ryzen 3,Windows 11,512.0,15.6,AMD,2.26,8.6,29900,4.1
+MSI Claw A1M AI PC Intel Core Ultra 7 155H,16.0,Other,Windows 11,512.0,7.0,Intel,1.52,8.0,46990,4.6
+HP Victus AMD Ryzen 9 Octa Core 8945HS,16.0,AMD Ryzen 9,Windows 11,1024.0,15.6,AMD,2.27,8.2,107990,Not found
+HP Victus 15 AMD Ryzen 7 Octa Core 5800H,16.0,AMD Ryzen 7,Windows 11,512.0,15.6,AMD,2.08,6.9,70990,4.4
+HP 245 G8 AMD Ryzen 5 Quad Core 3500u,8.0,AMD Ryzen 5,Windows 11,512.0,14.0,AMD,2.56,7.6,31490,3.9
+HP Intel Intel Core i5 11th Gen 1155G7,8.0,Intel Core i5,Windows 11,512.0,15.6,Intel,1.21,7.6,39999,4.3
+HP Intel Core i5 12th Gen 1235U,8.0,Intel Core i5,Windows 11,512.0,15.6,Intel,2.52,7.2,44990,4.2
+HP AMD Ryzen 5 Hexa Core,8.0,AMD Ryzen 5,Windows 11,512.0,15.6,AMD,2.08,10.0,52900,3.9
+HP Victus Intel Core i7 13th Gen 13620H,16.0,Intel Core i7,Windows 11,1024.0,15.6,Intel,2.93,6.5,93999,3.9
+DELL Latitude Intel Core i3 11th Gen 1115G4,8.0,Intel Core i3,Windows 11,512.0,15.6,Intel,1.68,6.6,31999,4.2
+Lenovo IdeaPad Flex 5 Intel Core i5 12th Gen 1235U,8.0,Intel Core i5,Windows 11,512.0,14.0,Intel,2.27,6.9,73990,4
+Lenovo Thinkpad E14 G5 Intel Core i5 13th Gen 1335U with 3 year Warranty,16.0,Intel Core i5,Windows 11,512.0,14.0,Intel,2.86,7.0,69499,3.9
+HP 250 G8 Intel Core i3 11th Gen,8.0,Intel Core i3,DOS,512.0,15.6,Intel,1.21,6.7,27999,3.8
+ASUS TUF Gaming F15 with 90Whr Battery Intel Core i7 12th Gen 12700H,16.0,Intel Core i7,Windows 11,1024.0,15.6,Intel,2.87,8.8,79990,4.4
+HP Victus Intel Core i7 12th Gen 12650H,16.0,Intel Core i7,Windows 11,512.0,15.6,Intel,2.38,10.0,86990,4.1
+Acer Professional Intel Core i7 13th Gen 1355U with 3year Warranty,32.0,Intel Core i7,Windows 11,1024.0,14.0,Intel,1.14,6.5,79990,Not found
+MSI Intel Core i9 13th Gen,16.0,Intel Core i9,Windows 11,1024.0,15.6,Intel,1.6,5.5,75990,Not found
+HP Chromebook Intel Celeron Dual Core N4020,4.0,Intel Celeron,,,14.0,Intel,2.42,6.2,24768,3.9
+ASUS TUF Gaming F15,8.0,Intel Core i5,Windows 11,512.0,15.6,Intel,1.13,7.9,62990,4.3
+Acer ALG Gaming Intel Core i7 13th Gen 13620H,16.0,Intel Core i7,Windows 11,512.0,15.6,Intel,2.16,7.1,77990,Not found
+ASUS Vivobook Go 15 Intel Celeron Dual Core N4020,8.0,Intel Celeron,Windows 11,256.0,15.6,Intel,1.69,4.2,28495,4
+HP Victus Gaming Intel Core i5 12th Gen 12450H,8.0,Intel Core i5,Windows 11,512.0,15.6,Intel,2.24,5.8,55990,Not found
+Lenovo IdeaPad Flex 5 AMD AMD Ryzen 5 Hexa Core 5500U,16.0,AMD Ryzen 5,Windows 11,512.0,14.0,AMD,1.09,9.6,64990,4.5
+Acer Aspire 7 Intel Core i5 12th Gen 1240P,16.0,Intel Core i5,Windows 11,512.0,15.6,Intel,2.74,6.2,61999,3.5
+HP 240 G9 Intel Core i7 12th Gen 1255U Deca Core with Intel Turbo Boost,16.0,Intel Core i7,Windows 11,512.0,14.0,Intel,2.95,7.3,65990,4.1
+HP 14s Intel Pentium Quad Core N6000,8.0,Intel Pentium,Windows 11,512.0,14.0,Intel,2.94,6.1,25700,2.8
+ASUS VivoBook 15 AMD Ryzen 7 Octa Core 5800HS,16.0,AMD Ryzen 7,Windows 11,512.0,15.6,AMD,2.5,7.4,58999,4.2
+MSI Vector GP78HX Intel Core i9 13th Gen 13980HX,32.0,Intel Core i9,Windows 11,2048.0,17.0,Intel,1.26,5.3,284999,Not found
+MSI Vector GP68HX Intel Core i9 13th Gen 13980HX,32.0,Intel Core i9,Windows 11,1024.0,16.0,Intel,2.52,7.6,236999,Not found
+Lenovo V 15,16.0,Intel Core i3,Windows 11,512.0,15.6,Intel,1.05,5.3,33990,Not found
+DELL Inspiron 5430 Intel Core i7 13th Gen 1360P,16.0,Intel Core i7,Windows 11,1024.0,14.1,Intel,1.04,9.2,79990,4
+Lenovo IdeaPad Gaming 3 Intel Core i5 11th Gen 11300H,8.0,Intel Core i5,Windows 11,512.0,15.6,Intel,1.65,6.3,58999,4.3
+SAMSUNG Galaxy Book4 Intel Core 5 120U,8.0,Other,Windows 11,512.0,15.6,Intel,1.98,7.7,55990,4.4
+HP 841w6pa 255 g9 AMD Ryzen 3 Dual Core AMD Ryzen,8.0,AMD Ryzen 3,DOS,512.0,15.6,AMD,2.54,9.5,26200,4.1
+Lenovo V 15,8.0,Intel Celeron,Windows 11,256.0,15.6,Intel,2.37,8.3,22890,Not found
+HP Victus Intel Core i5 12th Gen 12450H,8.0,Intel Core i5,Windows 11,512.0,15.6,Intel,1.89,7.4,64859,4.4
+Lenovo LOQ AMD Ryzen 7 Octa Core 8845HS,16.0,AMD Ryzen 7,Windows 11,512.0,15.6,AMD,1.55,7.3,89990,4.7
+MSI Vector GP68HX Intel Core i7 13th Gen 13700HX,16.0,Intel Core i7,Windows 11,1024.0,16.0,Intel,2.99,7.3,157999,Not found
+HP Victus Intel Core i7 13th Gen 13620H,16.0,Intel Core i7,Windows 11,512.0,15.6,Intel,1.85,8.7,89990,Not found
+ASUS Vivobook Pro 15 For Creator,8.0,AMD Ryzen 5,Windows 11,512.0,15.6,AMD,1.9,10.0,48990,4.4
+Lenovo V 15,8.0,Intel Core i3,Windows 11,512.0,15.6,Intel,1.33,8.3,32990,Not found
+HP,8.0,Intel Core i5,Windows 11,512.0,15.6,Intel,2.59,7.8,46390,4.3
+Lenovo ThinkPad E14 Intel Intel Core i5 12th Gen 1235U,16.0,Intel Core i5,Windows 11,1024.0,14.0,Intel,2.39,8.1,70250,4
